@@ -62,7 +62,7 @@ const beers =
                     <h1 class="title" >${beers[i].title}</h1>
                     <p class="sub" >${beers[i].sub}</p>
                     <p class="text" >${beers[i].text}</p>
-                    <button>read more<span class="material-icons">arrow_forward</span></button>
+                    <button>details<span class="material-icons">arrow_forward</span></button>
                 </div>
             `);
         }
